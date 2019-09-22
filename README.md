@@ -25,3 +25,11 @@ Written:
 
 [Talking Physics Tutorial](https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/) - getting started animating with manim and Python 3.7
 
+Video
+-----
+
+[Manim Tutorial](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F)
+\- video series covering installation and use by
+[Theorem of Beethoven](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
+
+
