@@ -41,3 +41,12 @@ Examples of use
 [3Blue1Brown YT channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 \- maths videos by the author of manim; the reason the package was written
 
+
+
+Jupyter
+-------
+
+
+https://github.com/krassowski/jupyter-manim
+
+
