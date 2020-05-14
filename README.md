@@ -32,6 +32,8 @@ Video:
 [Theorem of Beethoven](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
 
 
+https://github.com/malhotra5/Manim-Tutorial
+
 
 Examples of use
 ---------------
